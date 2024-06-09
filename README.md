@@ -1,7 +1,8 @@
 # HSU_Chatbot
 
 ### First Look, The server just started so it took little bit time
-![ScreenRecording2024-06-09at20 56 08-ezgif com-video-to-gif-converter](https://github.com/CungThinh/HSU_Chatbot/assets/114906482/01f4e172-840f-4e31-84f1-a2b8e2843e86)
+
+![ScreenRecording2024-06-09at20 56 08-ezgif com-video-to-gif-converter](https://github.com/CungThinh/HSU-ChatBot/assets/114906482/b75812bb-c4bc-4521-9ea4-35e3fbeff36d)
 
 
 ## Tech
